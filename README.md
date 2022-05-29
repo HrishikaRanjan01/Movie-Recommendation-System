@@ -9,7 +9,7 @@ Laptops, Desktops and Tablet PCs
 Built With
 - Jupyter Notebook ( Anaconda 3)
 -  PyCharm
-Project Flow
+Project Flow:
 Jupyter Notebook ---> Dataset ---> Data Preprocessing ---> Vectorisation ---> Function Implementation in PyCharm ---> Frontend / Streamlit
 - For generating Local URL Type streamlit run app.py and press enter. Local URL will be generated which will direct to the webpage
 
